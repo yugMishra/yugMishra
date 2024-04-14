@@ -1,16 +1,16 @@
-### Hi there 👋
+**Hi visitor :wave:I'm Yugdeep Mishra**
 
-<!--
-**yugMishra/yugMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm happy to be here! :smile: Nice to meet you 🤝 Hope you doing well 🙂
+ 
+I'm an Aspiring Software Developer, like to learn new tech and code. I love to explore different technologies and dig deep to see how they come together to make a workable solution for a real life problem.
+ 
+🖥️ .
+I’m looking to collaborate and work on any idea which will create an impact or be useful to the users. Would love to build it from scratch.
+💻 I’m open for work.
 
-Here are some ideas to get you started:
+💬 Ask me about tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 **Technical Skills**
+
+Java,       Spring Boot,        MySQL,       MongoDB,      HTML,        CSS ,        JavaScript,        React
+
